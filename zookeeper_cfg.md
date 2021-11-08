@@ -47,7 +47,7 @@ Note:
 
 zookeeper常用命令
 ```shell
-执行sh zkServer.sh start即可
+执行sh zkServer.sh start
 
 停止：sh zkServer.sh stop
 
