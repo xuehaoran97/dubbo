@@ -45,3 +45,11 @@ Note:
 /Users/xuehaoran/IdeaProjects/software/zookeeper/apache-zookeeper-3.5.9-bin/b
 ```
 
+zookeeper常用命令
+```shell
+执行sh zkServer.sh start即可
+
+停止：sh zkServer.sh stop
+
+查看状态：sh zkServer.sh status
+```
