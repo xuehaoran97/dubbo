@@ -53,3 +53,13 @@ zookeeper常用命令
 
 查看状态：sh zkServer.sh status
 ```
+
+zookeeper Cli链接
+
+```shell
+cd /Users/xuehaoran/IdeaProjects/software/zookeeper/apache-zookeeper-3.5.9-bin/bin
+./zkCli.sh -server 127.0.0.1:2181
+```
+
+
+
